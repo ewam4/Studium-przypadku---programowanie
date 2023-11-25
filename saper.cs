@@ -70,7 +70,7 @@ class Program
 
 
 
-                        if (count /*??*/ 0)
+                        if (count == 0)
 
                         {
 
@@ -126,7 +126,7 @@ class Program
 
         char[,] board = new char[height, width];
 
-        Random random = /*??*/
+        Random random = new Random();
 
 
 
@@ -188,7 +188,7 @@ class Program
 
 
 
-        /*??*/ displayBoard;
+        return displayBoard;
 
     }
 
@@ -260,8 +260,7 @@ class Program
 
         {
 
-            for (int j = Math.Max(0, x - 1); j <= /*??*/(width - 1, x + 1); j++)
-
+            for (int j = Math.Max(0, x - 1); j <= Math.Min(width - 1, x + 1); j++)
             {
 
                 if (board[i, j] == '*')
@@ -362,7 +361,7 @@ class Program
 
 
 
-        return uncoveredCount == /* ??*/ * height - bombCount;
+        return uncoveredCount == width * height - bombCount;
 
     }
 
