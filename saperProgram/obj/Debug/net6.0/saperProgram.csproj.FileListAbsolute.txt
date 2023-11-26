@@ -1,0 +1,15 @@
+C:\Users\Ewaa\Desktop\Studium przypadku\saperProgram\bin\Debug\net6.0\saperProgram.exe
+C:\Users\Ewaa\Desktop\Studium przypadku\saperProgram\bin\Debug\net6.0\saperProgram.deps.json
+C:\Users\Ewaa\Desktop\Studium przypadku\saperProgram\bin\Debug\net6.0\saperProgram.runtimeconfig.json
+C:\Users\Ewaa\Desktop\Studium przypadku\saperProgram\bin\Debug\net6.0\saperProgram.dll
+C:\Users\Ewaa\Desktop\Studium przypadku\saperProgram\bin\Debug\net6.0\saperProgram.pdb
+C:\Users\Ewaa\Desktop\Studium przypadku\saperProgram\obj\Debug\net6.0\saperProgram.csproj.AssemblyReference.cache
+C:\Users\Ewaa\Desktop\Studium przypadku\saperProgram\obj\Debug\net6.0\saperProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ewaa\Desktop\Studium przypadku\saperProgram\obj\Debug\net6.0\saperProgram.AssemblyInfoInputs.cache
+C:\Users\Ewaa\Desktop\Studium przypadku\saperProgram\obj\Debug\net6.0\saperProgram.AssemblyInfo.cs
+C:\Users\Ewaa\Desktop\Studium przypadku\saperProgram\obj\Debug\net6.0\saperProgram.csproj.CoreCompileInputs.cache
+C:\Users\Ewaa\Desktop\Studium przypadku\saperProgram\obj\Debug\net6.0\saperProgram.dll
+C:\Users\Ewaa\Desktop\Studium przypadku\saperProgram\obj\Debug\net6.0\refint\saperProgram.dll
+C:\Users\Ewaa\Desktop\Studium przypadku\saperProgram\obj\Debug\net6.0\saperProgram.pdb
+C:\Users\Ewaa\Desktop\Studium przypadku\saperProgram\obj\Debug\net6.0\saperProgram.genruntimeconfig.cache
+C:\Users\Ewaa\Desktop\Studium przypadku\saperProgram\obj\Debug\net6.0\ref\saperProgram.dll
