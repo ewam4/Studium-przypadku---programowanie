@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "je7v5bCpa8t2+oVRR/pVMKew7SOrtUG4F3cencNi+auxCYWk4xsq/269hL/tr7K1cx+Nbn3W9nefy3TRq7ji7w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ewaa\\Desktop\\Studium przypadku\\saperProgram\\saperProgram.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ewaa\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Ewaa\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Ewaa\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Ewaa\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}
